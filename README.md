@@ -17,7 +17,7 @@ Our AI-powered system optimizes battery assembly, enhancing efficiency, reducing
 
 ## Model Performance
 
-- **Defect Prediction Accuracy**: 66%
+- **Defect Prediction Accuracy**: 87%
 - **Efficiency R-squared (R²)**: 0.73
 - **Efficiency Mean Squared Error (MSE)**: 1.01
 
