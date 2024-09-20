@@ -60,20 +60,3 @@ Join us in driving the future of electric vehicles!
 
 
 
-## Getting Started
-
-To run this project locally:
-
-1. Clone the repository
-   ```
-   git clone https://github.com/binary-bandits/ev-battery-assembly.git
-   ```
-2. Install dependencies
-   ```
-   npm install
-   ```
-3. Start the development server
-   ```
-   npm start
-   ```
-
