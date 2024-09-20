@@ -1,6 +1,5 @@
 # Binary Bandits: AI-Powered EV Battery Assembly
 
-![Binary Bandits Logo](https://example.com/binary-bandits-logo.png)
 
 ## Introduction
 
